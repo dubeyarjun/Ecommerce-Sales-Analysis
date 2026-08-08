@@ -285,3 +285,7 @@ Possible enhancements for future versions:
 5. Import the cleaned data into MySQL/phpMyAdmin for the SQL analysis workflow.
 
 6. Open the Power BI file in the powerbi folder to view the dashboard.
+
+<p align="center">
+    <img src="images/dashboard.png" alt="Dashboard Preview" width="100%">
+</p>
